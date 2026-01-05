@@ -8,9 +8,8 @@ This repository contains the main codes used for the thesis project titled "Expl
 "Psychophysical Experiments" folder contains C# code for the 2AFC experiment (ColourPatch_Compare.cs) and the Just noticeable difference experiment (JND.cs), as well as a code (AutoTester.cs) to automate the 2AFC experiment on Unity for testing purposes.
 -->
 # Colour Characterisation in Optical See-Through Augmented Reality  
-**Exploring Colours in Optical See-Through Augmented Reality**  
+[**Exploring Colours in Optical See-Through Augmented Reality**](https://nva.sikt.no/registration/0199c398ffe4-d4f24d85-e16d-4c7b-96dc-9c7ae75db93a)  
 *Master’s Thesis – Erasmus Mundus MS COSI*
-Thesis Document - https://nva.sikt.no/registration/0199c398ffe4-d4f24d85-e16d-4c7b-96dc-9c7ae75db93a
 
 ---
 
