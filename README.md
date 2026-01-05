@@ -10,6 +10,7 @@ This repository contains the main codes used for the thesis project titled "Expl
 # Colour Characterisation in Optical See-Through Augmented Reality  
 **Exploring Colours in Optical See-Through Augmented Reality**  
 *Master’s Thesis – Erasmus Mundus MS COSI*
+Thesis Document - https://nva.sikt.no/registration/0199c398ffe4-d4f24d85-e16d-4c7b-96dc-9c7ae75db93a
 
 ---
 
